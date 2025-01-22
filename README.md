@@ -1,1 +1,1 @@
-ALumno: Carlos Jesús Araña Guedes
+Alumno: Carlos Jesús Araña Guedes
